@@ -6,7 +6,7 @@
   - Or marse entire markdown files
 - Markdown notes separated by `---`
 - Or, highlight passages in a markdown file
-  - like wrap in <hl> or {hl} or something
+  - like wrap in < hl > or {hl} or something
   - So I can write first, and then later just highlight (using custom keybind)
     what I want to import
 - Each note gets a context (like the reader highlights)
